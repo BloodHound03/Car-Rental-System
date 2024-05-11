@@ -1,4 +1,5 @@
 # Car Rental System
+🚗 A Java-based console application that combines learning and simulation.
 
 ## Features
 🚀 Rent a Car: Experience the ease of renting cars through an interactive console.
